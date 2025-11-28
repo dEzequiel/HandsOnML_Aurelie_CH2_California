@@ -16,7 +16,7 @@ El objetivo del notebook es reproducir y comprender los pasos del capítulo inic
 
 ---
 
-## 📑 Contenido del notebook
+## Contenido del notebook
 1. **Carga de datos**  
    Descarga y muestra del dataset California Housing.
 
